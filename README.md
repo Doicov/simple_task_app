@@ -48,3 +48,9 @@ export default tseslint.config({
   },
 })
 ```
+Application Description
+
+![Image alt](https://github.com/Doicov/simple_task_app/blob/assets/photo_2025-02-03_23-13-43.jpg)
+
+### A simple application was created using typescript react.js mui, the application logic is simple, worked mostly with interfaces and hooks 
+
